@@ -1,40 +1,46 @@
 {
   "fortune": [
     {
-      "id": 1,
       "beginDate": "2025-02-18",
       "endDate": "infinity",
+      "id": 1,
       "sentence:": "Sit up straight!"
     },
     {
+      "beginDate": "2025-02-18",
+      "description": "If skipping a reminder -> Write down why.",
+      "endDate": "infinity",
       "id": 2,
-      "beginDate": "2025-02-18",
-      "endDate": "infinity",
-      "sentence:": "Respect Reminders",
-      "description": "If skipping a reminder -> Write down why."
+      "sentence:": "Respect Reminders"
     },
     {
-      "id": 3,
       "beginDate": "2025-02-18",
-      "endDate": "infinity",
-      "sentence:": "Don't live with broken windows",
       "description": "Fix problems as soon as they arise.",
+      "endDate": "infinity",
+      "id": 3,
+      "sentence:": "Don't live with broken windows",
       "sourceReference": "Pragmatic Programmer"
     },
     {
-      "id": 4,
       "beginDate": "2025-02-18",
-      "endDate": "infinity",
-      "sentence:": "Make stone soup.",
       "description": "Work out what you can reasonably ask for. Develope it well. Once you got it, show people. People find it easier to join an ongoing success.",
+      "endDate": "infinity",
+      "id": 4,
+      "sentence:": "Make stone soup.",
       "sourceReference": "Pragmatic Programmer"
     },
     {
-      "id": 5,
       "beginDate": "2025-02-18",
       "endDate": "infinity",
+      "id": 5,
       "sentence:": "Before approaching anyone, rubber duck.",
       "sourceReference": "Pragmatic Programmer"
+    },
+    {
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "id": 6,
+      "sentence:": "Oefen situationeel bewustzijn in het Nederlands"
     }
   ]
 }
