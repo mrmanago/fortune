@@ -1,0 +1,40 @@
+{
+  "fortune": [
+    {
+      "id": 1,
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "sentence:": "Sit up straight!"
+    },
+    {
+      "id": 2,
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "sentence:": "Respect Reminders",
+      "description": "If skipping a reminder -> Write down why."
+    },
+    {
+      "id": 3,
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "sentence:": "Don't live with broken windows",
+      "description": "Fix problems as soon as they arise.",
+      "sourceReference": "Pragmatic Programmer"
+    },
+    {
+      "id": 4,
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "sentence:": "Make stone soup.",
+      "description": "Work out what you can reasonably ask for. Develope it well. Once you got it, show people. People find it easier to join an ongoing success.",
+      "sourceReference": "Pragmatic Programmer"
+    },
+    {
+      "id": 5,
+      "beginDate": "2025-02-18",
+      "endDate": "infinity",
+      "sentence:": "Before approaching anyone, rubber duck.",
+      "sourceReference": "Pragmatic Programmer"
+    }
+  ]
+}
